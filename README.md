@@ -1,0 +1,2 @@
+# IchimokuIBtrade
+Algorithmic trading
