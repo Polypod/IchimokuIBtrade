@@ -9,7 +9,7 @@ With active repository @ backtrader2: https://github.com/backtrader2/backtrader
 
 Feature rich plotting (bokeh): https://github.com/verybadsoldier/backtrader_plotting
 
-Possible trade stategy: Intro: https://school.stockcharts.com/doku.php?id=technical_indicators:ichimoku_cloud Strategy(?): https://forextraininggroup.com/how-to-use-ichimoku-cloud-strategies-to-trade-forex/
+Possible trade stategy: Intro: https://school.stockcharts.com/doku.php?id=technical_indicators:ichimoku_cloud Strategy: https://forextraininggroup.com/how-to-use-ichimoku-cloud-strategies-to-trade-forex/
 
 To do:
 - Adjust but/sell alg.
